@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        What to do When You're Bored
+    </title>
+
+</head>
+    <body style="background-color: rgb(251, 102, 102);">
+        <h1 style="font-size-adjust: 10.5;">
+        Will you go out with me?
+        </h1>
+        <p style="font-display: 4.0.0; color: blue; margin: 30px; ">
+        Yes
+        </p>
+        <p style="font-display: 4.0.0; color: chocolate; margin: 30px;">
+        No
+        </p>
+
+    </body>
+</html>

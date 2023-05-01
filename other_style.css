@@ -1,0 +1,17 @@
+body{
+    background-color: lightgrey;
+    margin: 50px;
+    margin-top: 20px;
+}
+h2.yes{
+border-color: rgb(8, 236, 8);
+text-align: justify;
+display: inline-block;
+}
+h2.no{
+border-color: rgb(254, 18, 18);
+text-emphasis-color: rgb(254, 254, 000);
+text-align: justify;
+display: inline-block;
+color: rgb(254, 18, 18);
+}

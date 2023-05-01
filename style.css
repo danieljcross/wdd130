@@ -1,0 +1,39 @@
+body {
+background-color: tan;
+margin: 0px;
+border-top-right-radius: 10px;
+border-color: #44F9C0;
+
+}
+h1{
+    background-color: rgb(237, 13, 125);
+    color: darkgoldenrod;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+}
+p{
+    margin: 30px;
+}
+#highlight{
+    color: lawngreen;
+    background-color: #ff0499;
+    display:inline-block
+}
+h2.yes{
+    background-color: #F18888;
+    width: 50%;
+    max-width: 700px;
+    margin: 0 auto
+    margin-top: 20px;
+}
+h2.no{
+    background-color: rgb(250, 34, 10);
+    margin: 70px;
+    margin-top: 20px;
+}
+.purple{
+    background-color: #77074a;
+    margin: 70px;
+    margin-top: 20px;
+}

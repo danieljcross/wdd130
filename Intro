@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Daniel Cross</title>
+</head>
+<body style="background-color: rgb(26, 241, 33);">
+    <h1>About Me - Daniel Cross
+    </h1>
+    <img src="https://lh3.googleusercontent.com/4VzdAGSkGZqahaJic3404JaLdO1WyiDiPiwW9frFbGNFaQi7haUkIjwgpflHWM7LBPwaabQyei7l--tWF_z1M0RcoROKlG1HDhJ24O206q_WJjBjFd2nxQndR5bNFW-z0PQbj44j_2sQaK9MZp1Qc52p6RrHQZThz_KL2RRIPG-iPYTlKzYSUJZI1DQWUDpcBmd0d_5bQuDGJCO9zODrD4mHpfOFl2BUjfwmFgkJX3x0J8HwW_g9VULkgrQK4yVSaucxeHc6QoaDJCp1K7Oad47DuE6w9gLw1rtPOaWyHijuOdJCG9X37dVKWg6oCmjDE26Pf979yq-g6imF7wTqBFrj5rbvWQIsxYs3k2OzjwK_W2giGjuvXLVwBeXGqztJmQO3JN_2OcCALJdC8lDK2qVSdDaXWDIMXnBCGxlYv2scJ6vENBYnO440QNPGzLHEd3Bt5d2umEvFkrZXXyEiXUj6zdQXy1GFzVz5IOr5oQ4XEHZDaEZE-PZCVopPyFQpYSYYOEdlL7F4Vvec37Ys6cxgqTTdTLqTbPPUJ439O6IiWcj1bAiVyurkGqx9RBVzrG8oNmpdZXCUisJFWwXAmUY_66qdljiTfoId7y5RULp3UIFsHSSl9ZYfV6K6j83AU8vijZb1hrk92uKTwJB2jWuBEI1GpgqJZYYMStipVnB-r2fXEaunow021BrzzXH8D559DAab9N-xyTu0twgXvR4uNov7WLVkEdzpx7uIvuqRQVM_8q7AefGMCm-tl2PKPtRFva5wC5NB_d-017YJorKGBHaaElvxLpuyvI77jR15qS2E9PU3_GBbl7cCTPk09GcmUHkEyW6IwcoGjy1ZAOh5CLVPY-pQO7AUKAapSC2HumUTLsQHS44gHIkmPZB4OQtj5oUf2vm6KG8A5aO4IjkBn9fXN2wWDzaIUpQKDyNZ0nE3bcvh7YSskoj26-XjYh84TmqcE3OV5ch58D51=w473-h437-s-no?authuser=1" alt="">
+    <h2>Why I'm Here</h2>
+    <p>This is my first semester at Brigham Young University-Idaho. I graduated high school last year, then went on a mission. However,<br>I was sent home early due to some unexpected health issues. That is what brings me here in the Spring. I am excited to get started in<br>my persuit of education!</p>
+    <h2>Where I'm From</h2>
+    <p>I grew up in Marysville, Washington. A few years ago though, my family moved to Blackfoot, Idaho, which is about an hour South<br>of here. That's where I like to claim I'm from. For the past few months though, I've been living and working in Caldwell, Idaho. </p>
+    <h2>Why Software?</h2>
+    <p>I have decided to go into software mostly due to my family. My dad and all three of my older brothers are in the software industry,<br>and highly recommended it to me. So far I am loving it!</p>
+</body>
+</html>
