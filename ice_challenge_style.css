@@ -1,0 +1,17 @@
+body{
+    background-color: #FCA6C9;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+ol{
+    text-align: left;
+    border-spacing: 20px;
+}
+img{
+    width: 500px;
+    height: 600px;
+}
+h2{
+    color: white;
+}
