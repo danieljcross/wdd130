@@ -4,7 +4,6 @@
 }
 nav a {
     text-align: center;
-    background-color: #edae49;
     text-decoration: none;
     padding: 35px;
 }
@@ -48,8 +47,8 @@ nav a:hover{
     border-radius: 5px;
 }
 .join{
-    background-color: #3030eb;
-    color: white;
+    background-color: rgb(245, 245, 245);
+    color: #000000;
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
@@ -124,4 +123,7 @@ main section img{
 }
 #hero-img{
     width: 100%;
+}
+.mountains{
+    margin-bottom: 50px;
 }
