@@ -8,6 +8,9 @@ nav a {
     padding: 35px;
     height: 30px;
 }
+.logo{
+    margin-left: 150px;
+}
 #hero-msg h1,
 #hero-msg h4 {
     text-align: center;
@@ -185,16 +188,16 @@ nav{
     grid-row: 2/3;
 }
 #background{
-    grid-column: 1/11;
+    grid-column: 2/11;
     grid-row: 4/9;
 }
 .mountains{
-    grid-column: 2/7;
+    grid-column: 3/8;
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
 }
 .msg{
-    grid-column: 6/10;
+    grid-column: 7/10;
     grid-row: 6/7;
     box-shadow: 5px 5px 10px #6f7364;
 }
