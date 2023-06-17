@@ -206,6 +206,45 @@ footer{
     justify-content: space-around;
     align-items: center;
 }
+#FAQ-msg{
+    margin-top: -100px;
+    margin-left: 75px;
+    background-color: #3030eB;
+    padding: 20px;
+    margin-right: 1100px;
+    border-radius: 15px;
+}
+#FAQ_body{
+    background-color: #70b7b7;
+}
+.FAQ-title{
+    color: #FFFFFF;
+}
+#Frequently{
+    color: #70b7b7;
+}
+#main_image{
+    margin-left: 500px;
+    margin-top: 40px;
+    margin-right: 100px;
+    margin-bottom: -50px;
+    border-radius: 15px;
+}
+.FAQ-card{
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-right: 150px;
+    text-align: left;
+    background-color: #00a8b7;
+    padding: 40px;
+    padding-top: -220px;
+    border-radius: 15px;
+}
+#last_one{
+    margin-bottom: -150px;
+}
+
+
 @media screen and (max-width: 900px) {
     header{
         width: auto;
