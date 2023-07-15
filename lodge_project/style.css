@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Shadows+Into+Light&display=swap');
 
+
 :root{
     --heading-font: "Shadows Into Light";
     --paragraph-font: "Noto Sans JP";
 }
+
 
 header{
     background-color: #411111;
