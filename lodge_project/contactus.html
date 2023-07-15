@@ -79,35 +79,33 @@ button {
 </head>
 <body>
     <header>
-        <img id="main_logo" src="images/Screenshot 2023-06-06 222306.png" alt="Logo">
+        <img id="main_logo" src="images/Screenshot_2023-06-06_222306.png" alt="Logo">
         <h1 class="title">Contact Us</h1>
         <a href="contactus.html" target="_self" class="header_buttons" id="header_button_1">Make a Reservation</a>
         <a href="the_lodge.html" target="_self" class="header_buttons" id="header_button_2">Home Page</a>
     </header>
 
     <form action="/my-handling-form-page" method="post" id="contact">
+            <nav id="contact_us"></nav>
+                <p id="form_top">Fill out form or email us directly at placeholder@gmail.com</p>
         <ul id="move">
-            <nav id="contact_us">
-                <p style="text-underline-position: below;">Fill out form or email us directly at placeholder@gmail.com</p>
-            </nav>
             <li>
               <label for="name">Name:</label>
-              <input type="text" id="name" name="user_name" />
+              <input type="text" id="name" name="user_name">
             </li>
             <li>
               <label for="mail">Email:</label>
-              <input type="email" id="mail" name="user_email" />
+              <input type="email" id="mail" name="user_email">
             </li>
             <li>
               <label for="msg">Message:</label>
               <textarea id="msg" name="user_message"></textarea>
             </li>
-            <div id="feedback"></div>
             <li class="button">
                 <button type="submit" id="submit">Send your message</button>
             </li>
-              
         </ul>
+            <div id="feedback"></div>
     </form>
 
 <footer>
