@@ -62,18 +62,21 @@ a{
 }
 
 
-
-
 body{
     background-color: #F2EFBE;
+    font-family: var(--paragraph-font);
 }
+p{
+    font-family: var(--paragraph-font);
+}
+
 .main_home{
     margin-left: 20px;
     margin-top: 50px;
     display: grid;
     grid-template-columns: 2fr 1fr;
 }
-#first_paragraph{
+.first_paragraph{
     font-size: 24px;
     grid-column: 1/2;
     padding-right: 100px;
@@ -133,6 +136,7 @@ body{
 .bottom_images{
     border-radius: 50px;
     margin: 20px;
+    width: 600px;
 }
 
 
@@ -140,7 +144,6 @@ body{
     margin-bottom: 0px;
     margin: 0px;
 }
-
 
 
 #top{
@@ -180,8 +183,6 @@ body{
 }
 
 
-
-
 #title{
     font-family: var(--heading-font);
     width: 100%;
@@ -203,13 +204,13 @@ body{
     margin-bottom: 30px;
 }
 #in_town{
-    grid-column: 1fr;
+    grid-template-columns: 1fr;
 }
 #within_an_hour{
-    grid-column: 1fr;
+    grid-template-columns: 1fr;
 }
 #farther_away{
-    grid-column: 1fr;
+    grid-template-columns: 1fr;
 }
 .lists{
     margin-left: 75px;
@@ -221,6 +222,11 @@ body{
     color: black;
     border-color: black;
     border-style: solid;
+}
+.tops{
+    font-family: var(--heading-font);
+    font-size: x-large;
+    margin-left: 35px;
 }
 
 
@@ -249,9 +255,13 @@ body{
 #name, #mail, #msg{
     background-color: #F2EFBE;
 }
-
-
-
+#feedback{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#form_top{
+    margin-left: 10px;
+}
 
 
 footer{
@@ -263,13 +273,13 @@ footer{
     
 }
 .footer_buttons{
-    grid-column: 1fr;
+    grid-template-columns: 1fr;
     background-color: #e85744;
     width: 200px;
     height: 40px;
     text-align: center;
     margin-top: 15px;
-    margin-left: 150px;
+    margin-left: 100px;
     color: black;
     padding-top: 15px;
     border-style: solid;
