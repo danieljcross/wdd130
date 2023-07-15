@@ -203,13 +203,13 @@ body{
     margin-bottom: 30px;
 }
 #in_town{
-    grid-column: 1fr;
+    grid-template-columns: 1fr;
 }
 #within_an_hour{
-    grid-column: 1fr;
+    grid-template-columns: 1fr;
 }
 #farther_away{
-    grid-column: 1fr;
+    grid-template-columns: 1fr;
 }
 .lists{
     margin-left: 75px;
@@ -263,7 +263,7 @@ footer{
     
 }
 .footer_buttons{
-    grid-column: 1fr;
+    grid-template-columns: 1fr;
     background-color: #e85744;
     width: 200px;
     height: 40px;
