@@ -62,11 +62,15 @@ a{
 }
 
 
-
-
 body{
     background-color: #F2EFBE;
+    font-family: var(--paragraph-font);
 }
+p{
+    font-family: var(--paragraph-font);
+}
+
+
 .main_home{
     margin-left: 20px;
     margin-top: 50px;
@@ -133,6 +137,7 @@ body{
 .bottom_images{
     border-radius: 50px;
     margin: 20px;
+    width: 600px;
 }
 
 
@@ -140,7 +145,6 @@ body{
     margin-bottom: 0px;
     margin: 0px;
 }
-
 
 
 #top{
@@ -178,8 +182,6 @@ body{
     font-family: var(--heading-font);
     font-weight: bold;
 }
-
-
 
 
 #title{
@@ -222,6 +224,11 @@ body{
     border-color: black;
     border-style: solid;
 }
+.tops{
+    font-family: var(--heading-font);
+    font-size: x-large;
+    margin-left: 35px;
+}
 
 
 #contact{
@@ -249,9 +256,13 @@ body{
 #name, #mail, #msg{
     background-color: #F2EFBE;
 }
-
-
-
+#feedback{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#form_top{
+    margin-left: 10px;
+}
 
 
 footer{
@@ -269,7 +280,7 @@ footer{
     height: 40px;
     text-align: center;
     margin-top: 15px;
-    margin-left: 150px;
+    margin-left: 100px;
     color: black;
     padding-top: 15px;
     border-style: solid;
