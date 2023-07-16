@@ -70,14 +70,13 @@ p{
     font-family: var(--paragraph-font);
 }
 
-
 .main_home{
     margin-left: 20px;
     margin-top: 50px;
     display: grid;
     grid-template-columns: 2fr 1fr;
 }
-#first_paragraph{
+.first_paragraph{
     font-size: 24px;
     grid-column: 1/2;
     padding-right: 100px;
